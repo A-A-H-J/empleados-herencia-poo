@@ -25,8 +25,6 @@ namespace GestionEmpleados
 
         public override decimal CalcularSalario()
         {
-            // PERSONA B: implementar la fórmula real.
-            // Acordado en la Fase 0: el sueldo mensual es fijo, se retorna tal cual.
             return 0;
         }
 

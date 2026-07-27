@@ -38,8 +38,6 @@ namespace GestionEmpleados
 
         public override decimal CalcularSalario()
         {
-            // PERSONA B: implementar la fórmula real.
-            // Acordado en la Fase 0: sueldoPorHora * horasTrabajadas
             return 0;
         }
 

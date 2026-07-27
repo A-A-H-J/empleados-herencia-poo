@@ -2,12 +2,6 @@ using System;
 
 namespace GestionEmpleados
 {
-    /// <summary>
-    /// Clase abstracta que representa a cualquier empleado de la empresa.
-    /// No puede instanciarse directamente: cada tipo concreto (por hora,
-    /// asalariado, comisionista) implementa su propia forma de calcular
-    /// el salario.
-    /// </summary>
     public abstract class Empleado
     {
         private string nombre;
