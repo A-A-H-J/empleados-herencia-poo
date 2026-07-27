@@ -1,0 +1,14 @@
+/home/alexander/Escritorio/GestionEmpleados/bin/Debug/net8.0/GestionEmpleados
+/home/alexander/Escritorio/GestionEmpleados/bin/Debug/net8.0/GestionEmpleados.deps.json
+/home/alexander/Escritorio/GestionEmpleados/bin/Debug/net8.0/GestionEmpleados.runtimeconfig.json
+/home/alexander/Escritorio/GestionEmpleados/bin/Debug/net8.0/GestionEmpleados.dll
+/home/alexander/Escritorio/GestionEmpleados/bin/Debug/net8.0/GestionEmpleados.pdb
+/home/alexander/Escritorio/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/Escritorio/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.AssemblyInfoInputs.cache
+/home/alexander/Escritorio/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.AssemblyInfo.cs
+/home/alexander/Escritorio/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.csproj.CoreCompileInputs.cache
+/home/alexander/Escritorio/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.dll
+/home/alexander/Escritorio/GestionEmpleados/obj/Debug/net8.0/refint/GestionEmpleados.dll
+/home/alexander/Escritorio/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.pdb
+/home/alexander/Escritorio/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.genruntimeconfig.cache
+/home/alexander/Escritorio/GestionEmpleados/obj/Debug/net8.0/ref/GestionEmpleados.dll
