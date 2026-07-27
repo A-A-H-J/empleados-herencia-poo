@@ -38,7 +38,7 @@ namespace GestionEmpleados
 
         public override decimal CalcularSalario()
         {
-            return 0;
+            return SueldoPorHora * HorasTrabajadas;
         }
 
         public override string ToString()

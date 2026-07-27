@@ -12,3 +12,4 @@
 /home/alexander/Escritorio/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.pdb
 /home/alexander/Escritorio/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.genruntimeconfig.cache
 /home/alexander/Escritorio/GestionEmpleados/obj/Debug/net8.0/ref/GestionEmpleados.dll
+/home/alexander/Escritorio/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.sourcelink.json

@@ -51,9 +51,7 @@ namespace GestionEmpleados
 
         public override decimal CalcularSalario()
         {
-            // PERSONA B: implementar la fórmula real.
-            // Acordado en la Fase 0: sueldoBase + (ventasRealizadas * porcentajeComision)
-            return 0;
+            return SueldoBase + (VentasRealizadas * PorcentajeComision);
         }
 
         public override string ToString()

@@ -25,7 +25,7 @@ namespace GestionEmpleados
 
         public override decimal CalcularSalario()
         {
-            return 0;
+            return SueldoMensual;
         }
 
         public override string ToString()

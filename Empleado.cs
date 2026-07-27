@@ -35,17 +35,8 @@ namespace GestionEmpleados
             Id = id;
         }
 
-        /// <summary>
-        /// Calcula el salario del empleado. Cada clase derivada define su
-        /// propia fórmula.
-        /// PERSONA B: aquí va la lógica real en cada subclase, no en esta clase.
-        /// </summary>
         public abstract decimal CalcularSalario();
 
-        /// <summary>
-        /// Representación en texto del empleado. Las subclases la sobrescriben
-        /// para agregar sus datos específicos.
-        /// </summary>
         public override string ToString()
         {
             return $"ID: {Id} | Nombre: {Nombre} | Salario: {CalcularSalario():C}";
